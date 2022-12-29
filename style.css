@@ -1,0 +1,12 @@
+*{
+    font-family: 'Poppins', sans-serif
+}
+
+.plot{
+    width: 1000px;
+    align-self: center;
+}
+
+.image{
+    height: 50px;
+}
